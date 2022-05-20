@@ -3,7 +3,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 ## My GitHub stats!
-[![skindud GitHub stats](https://github-readme-stats.vercel.app/api?username=skindud&show_icons=true&theme=merko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![skindud GitHub stats](https://github-readme-stats.vercel.app/api?username=skindud)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skindud&layout=compact&theme=merko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ## How to reach me:
