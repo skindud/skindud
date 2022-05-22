@@ -1,10 +1,10 @@
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=skindud)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=skindud)](https://github.com/ryo-ma/github-profile-trophy&theme=onedark)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 ## My GitHub stats!
-[![skindud GitHub stats](https://github-readme-stats.vercel.app/api?username=skindud)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skindud)](https://github.com/anuraghazra/github-readme-stats)
+[![skindud GitHub stats](https://github-readme-stats.vercel.app/api?username=skindud&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skindud&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ## How to reach me:
 [Via my site](https://)
