@@ -1,5 +1,5 @@
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=skindud)](https://github.com/ryo-ma/github-profile-trophy&theme=gruvbox)
+[![trophy](https://github-profile-trophy.vercel.app/?username=skindud&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 ## My GitHub stats!
